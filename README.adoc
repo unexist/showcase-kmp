@@ -1,0 +1,3 @@
+= Showcase for Kotlin Multiplatform Development
+
+This project holds a showcase for KMP

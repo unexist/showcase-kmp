@@ -2,6 +2,12 @@ syntax: glob
 
 **/*.iml
 
-target/
-.idea/
-.mvn/
+.gradle
+.idea
+.DS_Store
+build
+captures
+.externalNativeBuild
+.cxx
+local.properties
+xcuserdata
